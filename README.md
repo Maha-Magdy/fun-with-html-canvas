@@ -33,7 +33,7 @@ Begin your journey with Fun with HTML Canvas by opening the app in your web brow
 
 Here are the links to the live demo:
 
-- [Live Demo Link](https://maha-magdy.github.io/pictures-and-potions-of-harry-potter-films/)
+- [Live Demo Link](https://maha-magdy.github.io/fun-with-html-canvas/)
 
 
 <a name="installation"></a>
