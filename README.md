@@ -42,7 +42,7 @@ Here are the links to the live demo:
 
 To install the Fun with HTML canvas on your local machine, follow these steps:
 
-- Clone this repository: `git clone [https://github.com/Maha-Magdy/fun-with-html-canvas.git]`
+- Clone this repository: `git clone https://github.com/Maha-Magdy/fun-with-html-canvas.git`
 - Open the `index.html` file in your web browser
 
 ## Contributing
